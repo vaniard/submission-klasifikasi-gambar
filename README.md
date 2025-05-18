@@ -8,24 +8,16 @@ Tujuan dari proyek ini ialah membangun model klasifikasi gambar untuk mengenali 
 
 Dataset yang digunakan adalah **Vegetable Image Dataset**, yang terdiri dari gambar-gambar sayuran dengan beberapa kategori seperti:
 - Bean
-- Bitter_Gourd
-- Bottle_Gourd
 - Brinjal
 - Broccoli
 - Cabbage
-- Capsicum
 - Carrot
-- Cauliflower
 - Cucumber
 - Papaya
 - Potato
 - Pumpkin
 - Radish
 - Tomato
-
-Kaggle : ![dataset](https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset)
-
-Dataset dibagi ke dalam direktori training, validation, dan testing.
 
 ## 📦 Library yang Digunakan
 
